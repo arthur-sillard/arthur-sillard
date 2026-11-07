@@ -4,7 +4,7 @@ I'm Arthur, a software engineering student at [Nantes University](https://www.un
 
 I’m currently in my 2nd year of a [University Bachelor of Technology](https://iutnantes.univ-nantes.fr/fr/formations/but-info).
 
-Reach me here : [Linkedin](www.linkedin.com/in/arthur-sillard) | [email](mailto:arthur.sillard@etu.univ-nantes.com)
+Reach me here : [Linkedin](www.linkedin.com/in/arthur-sillard) | [email](mailto:arthur.sillard@etu.univ-nantes.fr)
 
 <!--
 **arthur-sillard/arthur-sillard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
